@@ -1,0 +1,256 @@
+{
+  "Food": [
+    {
+      "name": "Salads",
+      "items": [
+        {
+          "name": "CABBAGE AND CARROT SALAD",
+          "desciption": "Shredded cabbage and carrot mixed freshly squeezed lime juice, tomato and ground peanut",
+          "price": 5
+        },
+        {
+          "name": "GREEN PAPAYA SALAD",
+          "desciption": "Green papaya in thin slices mixed with freshly squeezed lime juice, tomato and ground peanut",
+          "price": 8
+        },
+        {
+          "name":"SHRIMP SALAD" ,
+          "desciption":"Jumbo shrimp served on top of lettuce and mixed with onion, tomato, cucumber. Seasoned with an exotic Thai salad dressing",
+          "price": 10
+        },
+        {
+          "name":"BEEF SALAD" ,
+          "desciption":"Grilled sliced beef served on top lettuce and mixed with red onion, bell pepper, tomato and cucumber. Seasoned with an exotic Thai salad dressing" ,
+          "price": 10
+        },
+        {
+          "name": "SPICY GROUND CHICKEN SALAD",
+          "desciption": "Minced chicken sautéed and seasoned with Thai herbs and Thai spicy. Served with cool lettuce",
+          "price": 9
+        },
+        {
+          "name": "HOUSE SALAD",
+          "desciption": "Fresh green salad and shredded tofu with special peanut dressing",
+          "price": 5
+        },
+        {
+          "name": "SIDE SALAD",
+          "desciption": "Fresh green salad with ginger dressing",
+          "price": 3
+        },
+      ]
+    },
+    {
+      "name": "Appetizers",
+      "items": [
+        {
+          "name": "GOLDEN SHEET",
+          "desciption": "Rice crepes filled with chicken and shrimp. Served with a special sauce",
+          "price": 7
+        },
+        {
+          "name": "",
+          "desciption": "",
+          "price":
+        },
+        {
+          "name": "",
+          "desciption": "",
+          "price":
+        },
+        {
+          "name": "",
+          "desciption": "",
+          "price":
+        },
+        {
+          "name": "",
+          "desciption": "",
+          "price":
+        },
+        {
+          "name": "",
+          "desciption": "",
+          "price":
+        },
+        {
+          "name": "",
+          "desciption": "",
+          "price":
+        },
+        {
+          "name": "",
+          "desciption": "",
+          "price":
+        },
+        {
+          "name": "",
+          "desciption": "",
+          "price":
+        },
+        {
+          "name": "",
+          "desciption": "",
+          "price":
+        },
+        {
+          "name": "",
+          "desciption": "",
+          "price":
+        },
+        {
+          "name": "",
+          "desciption": "",
+          "price":
+        },
+        {
+          "name": "",
+          "desciption": "",
+          "price":
+        },
+        {
+          "name": "",
+          "desciption": "",
+          "price":
+        },
+        {
+          "name": "",
+          "desciption": "",
+          "price":
+        },
+
+      ]
+    },
+    {
+      "name": "Sushi Nigiri 1 Piece",
+      "items": [
+
+      ]
+    },
+    {
+      "name": "Sushi Roll Maki 4-8 Pieces",
+      "items": [
+
+      ]
+    },
+    {
+      "name": "Specialty Pizzas",
+      "items": [
+        {
+          "name": "Bacon Cheddar Ham",
+          "price": 12.75
+        },
+        {
+          "name": "Bacon Cheeseburger",
+          "price": 11.5
+        },
+        {
+          "name": "Taco Pizza",
+          "price": 12
+        },
+        {
+          "name": "Chicken Fajita",
+          "price": 11.25
+        }
+      ]
+    },
+    {
+      "name": "Classic Pizzas",
+      "items": [
+        {
+          "name": "Pepperoni",
+          "price": 9
+        },
+        {
+          "name": "Cheese",
+          "price": 8
+        },
+        {
+          "name": "Sausage",
+          "price": 9
+        },
+        {
+          "name": "Meat Lover's",
+          "price": 12
+        },
+        {
+          "name": "Supreme",
+          "price": 12.75
+        }
+      ]
+    }
+  ],
+  "Beverages": [
+    {
+      "name": "Soft Drinks",
+      "items": [
+        {
+          "name": "Pepsi",
+          "price": 2
+        },
+        {
+          "name": "Diet Pepsi",
+          "price": 2
+        },
+        {
+          "name": "Dr. Pepper",
+          "price": 2
+        },
+        {
+          "name": "Mountain Dew",
+          "price": 2
+        }
+      ]
+    },
+    {
+      "name": "Wines",
+      "items": [
+        {
+          "name": "Sangiovese",
+          "price": 8.75
+        },
+        {
+          "name": "Pinot Noir",
+          "price": 9
+        },
+        {
+          "name": "Syrah/Shiraz",
+          "price": 10
+        },
+        {
+          "name": "Merlot",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "name": "Beers",
+      "items": [
+        {
+          "name": "Bud Light",
+          "price": 3
+        },
+        {
+          "name": "Blue Moon",
+          "price": 3
+        },
+        {
+          "name": "Miller Lite",
+          "price": 3
+        },
+        {
+          "name": "Pabst Blue Ribbon",
+          "price": 3
+        },
+        {
+          "name": "Guinness",
+          "price": 3
+        },
+        {
+          "name": "Good Morning",
+          "price": 3
+        }
+      ]
+    }
+  ]
+}
