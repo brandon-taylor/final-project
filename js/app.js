@@ -11,7 +11,7 @@ $.ajax(menuData).done(function(data) {
 
     data.Food.forEach(function(foodSection, index){
         var table = buildTable(foodSection);
-        menuRow.push(table);}
+        menuRow.push(table);
 
         //We draw a row of tables after each set of two tables, or if it's the last table.
         if(!(index % 2 === 0) || index == (data.Food.length - 1)) {
