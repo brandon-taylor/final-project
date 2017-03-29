@@ -1,5 +1,5 @@
 
-var menuData = 'https://raw.githubusercontent.com/brandon-taylor/final-project/master/data/menu.json';
+var menuData = 'https://raw.githubusercontent.com/brandon-taylor/final-project/master/Data/menu.json';
 
 $.ajax(menuData).done(function(data) {
 
