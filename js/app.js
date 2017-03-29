@@ -1,5 +1,5 @@
 
-var menuData = 'https://raw.githubusercontent.com/brandon-taylor/final-project/master/Data/menu.json';
+var menuData = 'https://cdn.rawgit.com/Bumbolio/567f8ed0ac99703fbbe24a64638fcc81/raw/9a0930b07e6b746a76e058ac956e5528aedcfacf/menu.json';
 
 $.ajax(menuData).done(function(data) {
 
@@ -12,6 +12,7 @@ $.ajax(menuData).done(function(data) {
     data.Food.forEach(function(foodSection, index){
         var table = buildTable(foodSection);
         menuRow.push(table);
+
 
         //We draw a row of tables after each set of two tables, or if it's the last table.
         if(!(index % 2 === 0) || index == (data.Food.length - 1)) {
@@ -32,13 +33,12 @@ $.ajax(menuData).done(function(data) {
 //May provide this part.
 function buildTable(section) {
    var table = $('<table class="menu">');
-   table.append('<thead><tr><th colspan="2">' + section.name + '</th></tr></thead>');
+   table.append('<thead><tr><th colspan="2"><h4 class="menu-head red">' + section.name + '</h4></th></tr></thead>');
 
    for (var i = 0; i < section.items.length; i++) {
        var item = section.items[i];
        var row = $('<tr>');
        row.append('<td>' + item.name + '</td>');
-       row.append('<td>' + item.description + '</td>');
        row.append('<td class="menu-price text-right">$' + item.price.toFixed(2) + '</td>');
        table.append(row);
    }
