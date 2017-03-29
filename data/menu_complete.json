@@ -1,0 +1,133 @@
+{
+  "Food": [
+    {
+      "name": "Salads",
+      "items": [
+        {
+          "name": "CABBAGE AND CARROT SALAD",
+          "description": "Shredded cabbage and carrot mixed freshly squeezed lime juice, tomato and ground peanut",
+          "price": 5
+        },
+        {
+          "name": "GREEN PAPAYA SALAD",
+          "description": "Green papaya in thin slices mixed with freshly squeezed lime juice, tomato and ground peanut",
+          "price": 8
+        },
+        {
+          "name":"SHRIMP SALAD" ,
+          "description":"Jumbo shrimp served on top of lettuce and mixed with onion, tomato, cucumber. Seasoned with an exotic Thai salad dressing",
+          "price": 10
+        },
+        {
+          "name":"BEEF SALAD" ,
+          "description":"Grilled sliced beef served on top lettuce and mixed with red onion, bell pepper, tomato and cucumber. Seasoned with an exotic Thai salad dressing" ,
+          "price": 10
+        },
+        {
+          "name": "SPICY GROUND CHICKEN SALAD",
+          "description": "Minced chicken sautéed and seasoned with Thai herbs and Thai spicy. Served with cool lettuce",
+          "price": 9
+        },
+        {
+          "name": "HOUSE SALAD",
+          "description": "Fresh green salad and shredded tofu with special peanut dressing",
+          "price": 5
+        },
+        {
+          "name": "SIDE SALAD",
+          "description": "Fresh green salad with ginger dressing",
+          "price": 3
+        },
+      ]
+    },
+    {
+      "name": "Appetizers",
+      "items": [
+        {
+          "name": "GOLDEN SHEET",
+          "description": "Rice crepes filled with chicken and shrimp. Served with a special sauce",
+          "price": 7
+        },
+        {
+          "name": "GYOZA",
+          "description": "Pan – fried vegetable pot sticker",
+          "price": 6
+        },
+        {
+          "name": "TINY SPRING ROLL",
+          "description": "Chicken mixed with silver noodle wrapped in
+fine rice crepes. Served with Thai sweet & sauce",
+          "price": 5
+        },
+        {
+        "name": "VEGETABLE SPRING ROLL",
+          "description": "Vegetable wrapped fine rice crepes",
+          "price": 5
+        },
+        {
+          "name": "SUMMER ROLL",
+          "description": "Fresh vegetable wrapped in thin rice pancake.
+Served with sweet chili sauce and peanut sauce",
+          "price": 5
+        },
+        {
+          "name": "FISHCAKES",
+          "description": "Minces fish mixed with chili paste and chopped
+green beans then deep-fried to golden brown.
+Served with cucumber salad topped with
+ground peanut",
+          "price": 7
+        },
+        {
+          "name": "CRISPY TOFU",
+          "description": "Deep - fried tofu. Served with plum sauce mixed
+in crushed peanut",
+          "price": 5
+        },
+        {
+          "name": "CRAB RANGOON",
+          "description": "Cream Cheese/Crab Meat ",
+          "price": 5
+        },
+        {
+          "name": "FRIED WONTON"
+          "description": "Ground Chicken/Wonton Skin",
+          "price": 5
+        },
+        {
+          "name": "SOFT SHELL CRAB TEMPURA",
+          "description": "Crispy tempura soft shell crab in light batter .
+Served  with ponzu sauce and sweet potato",
+          "price": 10
+        },
+        {
+          "name": "SHRIMP TEMPURA",
+          "description": "Crispy tempura shrimp in light batter .
+Served with tempura sauce",
+          "price": 9
+        },
+        {
+          "name": "EDAMAME",
+          "description": "Steam Japanese soy bean with seasonal salt on top",
+          "price": 4
+        },
+        {
+          "name": "SEAWEED SALAD",
+          "description": "Japanese seaweed mix with special sauce",
+          "price": 5
+        },
+        {
+          "name": "SHU-MAI",
+          "description": "Shrimp dumpling steamed or pan fried.
+Served with house sauce",
+          "price": 6
+        },
+        {
+          "name": "GAI SATAY",
+          "description": "Marinated chicken strips on wooden skewers and
+grilled with coconut milk. Served with peanut sauce",
+          "price": 9
+        },
+
+      ]
+    }
