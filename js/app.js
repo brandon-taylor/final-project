@@ -1,7 +1,7 @@
 
-var menuData = 'https://raw.githubusercontent.com/brandon-taylor/final-project/master/Data/menu.json';
+var menuData = 'https://raw.githubusercontent.com/brandon-taylor/final-project/master/data/menu_complete.json#';
 
-$.ajax(menuData).done(function(data) {
+$.getJSON(menuData).done(function(data) {
 
     //Find exisiting food container
     var foodContainer = $('#foodcontainer');

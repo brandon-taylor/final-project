@@ -55,8 +55,7 @@
         },
         {
           "name": "TINY SPRING ROLL",
-          "description": "Chicken mixed with silver noodle wrapped in
-fine rice crepes. Served with Thai sweet & sauce",
+          "description": "Chicken mixed with silver noodle wrapped in fine rice crepes. Served with Thai sweet & sauce",
           "price": 5
         },
         {
@@ -66,22 +65,16 @@ fine rice crepes. Served with Thai sweet & sauce",
         },
         {
           "name": "SUMMER ROLL",
-          "description": "Fresh vegetable wrapped in thin rice pancake.
-Served with sweet chili sauce and peanut sauce",
+          "description": "Fresh vegetable wrapped in thin rice pancake. Served with sweet chili sauce and peanut sauce",
           "price": 5
         },
         {
           "name": "FISHCAKES",
-          "description": "Minces fish mixed with chili paste and chopped
-green beans then deep-fried to golden brown.
-Served with cucumber salad topped with
-ground peanut",
-          "price": 7
+          "description": "Minces fish mixed with chili paste and chopped green beans then deep-fried to golden brown. Served with cucumber salad topped with ground peanut",           "price": 7
         },
         {
           "name": "CRISPY TOFU",
-          "description": "Deep - fried tofu. Served with plum sauce mixed
-in crushed peanut",
+          "description": "Deep - fried tofu. Served with plum sauce mixed in crushed peanut",
           "price": 5
         },
         {
@@ -96,14 +89,12 @@ in crushed peanut",
         },
         {
           "name": "SOFT SHELL CRAB TEMPURA",
-          "description": "Crispy tempura soft shell crab in light batter .
-Served  with ponzu sauce and sweet potato",
+          "description": "Crispy tempura soft shell crab in light batter. Served  with ponzu sauce and sweet potato",
           "price": 10
         },
         {
           "name": "SHRIMP TEMPURA",
-          "description": "Crispy tempura shrimp in light batter .
-Served with tempura sauce",
+          "description": "Crispy tempura shrimp in light batter. Served with tempura sauce",
           "price": 9
         },
         {
@@ -118,16 +109,13 @@ Served with tempura sauce",
         },
         {
           "name": "SHU-MAI",
-          "description": "Shrimp dumpling steamed or pan fried.
-Served with house sauce",
+          "description": "Shrimp dumpling steamed or pan fried. Served with house sauce",
           "price": 6
         },
         {
           "name": "GAI SATAY",
-          "description": "Marinated chicken strips on wooden skewers and
-grilled with coconut milk. Served with peanut sauce",
+          "description": "Marinated chicken strips on wooden skewers and grilled with coconut milk. Served with peanut sauce",
           "price": 9
-        },
-
+        }
       ]
     }
