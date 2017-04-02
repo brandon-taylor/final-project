@@ -209,8 +209,7 @@ footer {
 /* NOTE: Had map section here, but could not get the the section to appear I a wanted to and moved it into Base Styles */
 /* NOTE:  Media Queries   */
 
-@media screen and (min-width: 994px) {
+@media screen and (min-width: 980px) {
   .span_1_of_2 {
       width: 49.2%;
   }
- 
