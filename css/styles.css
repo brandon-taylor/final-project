@@ -168,7 +168,7 @@ color: #000000;
 .group { zoom:1; /* For IE 6/7 */ }
 
 .span_1_of_2 {
-  width: 48.2%;
+  width: 100%;
 }
 .span_2_of_2{
   width: 100%;
@@ -207,6 +207,8 @@ footer {
     color: #F2F2F2;
 }
 /* NOTE: Had map section here, but could not get the the section to appear I a wanted to and moved it into Base Styles */
+
+
 /* NOTE:  Media Queries   */
 
 @media screen and (min-width: 980px) {
